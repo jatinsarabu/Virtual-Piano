@@ -119,13 +119,6 @@ keys.append(Piano_Key("home","converted_wav_notes/_g7sharp.wav",87))
 
 win = pygame.display.set_mode((1300, 700))
 pygame.mixer.set_num_channels(88)
-#dpygame.display.set_caption("Virtual Piano by Jatin Sarabu")
-#piano = pygame.image.load("piano 1.jpg")
-#piano = pygame.transform.scale(piano,(1300,200))
-#piano_x = 0
-#piano_y = 500
-#win.fill((255,255,255))
-#win.blit(piano, (piano_x, piano_y))
 pygame.display.update()
 while True:
   try:

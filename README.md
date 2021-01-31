@@ -11,6 +11,7 @@ Pre requisites:
 3.Use the latest version of python and pygame as of 1/30/2021.
 
 Run: 
+
 Download the python file and the sound files.
 
 Execute the python program. 
@@ -21,12 +22,19 @@ Key : Note
 ___________
 
 escape : a0 
+
 1 : a1 
-2 : a2 
+
+2 : a2
+
 3 : a3 
+
 4 : a4 
+
 5 : a5 
+
 6 : a6 
+
 7 : a7 
 
 

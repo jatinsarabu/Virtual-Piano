@@ -171,7 +171,31 @@ right : f3sharp
 
 [*] : g1
 
+[-] : g2 
 
+` : g3 
+
+[+] : g4 
+
+[/] : g5 
+
+delete: g6 
+
+page up : g7  
+
+caps lock : g1sharp 
+
+print screen : g2sharp 
+
+end : g3sharp 
+
+(no assigned key to this note) : g4sharp 
+
+page down : g5sharp 
+
+insert : g6sharp 
+
+home : g7sharp
 
 
 

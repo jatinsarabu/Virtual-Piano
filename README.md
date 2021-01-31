@@ -37,6 +37,43 @@ escape : a0
 
 7 : a7 
 
+8 : a0sharp 
+
+9 : a1sharp 
+
+0 : a2sharp 
+
+- : a3sharp 
+
+= : a4sharp 
+
+backspace : a5sharp 
+
+tab : a6sharp 
+
+q : a7sharp 
+
+w : b0 
+
+e : b1 
+
+r : b2 
+
+t : b3 
+
+y : b4 
+
+u : b5 
+
+i : b6 
+
+o : b7 
+
+[
+
+
+
+
 
 
 #Info 

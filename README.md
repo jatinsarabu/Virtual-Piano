@@ -43,7 +43,7 @@ escape : a0
 
 0 : a2sharp 
 
-- : a3sharp 
+[-] : a3sharp "the key is hyphen"
 
 = : a4sharp 
 
@@ -69,7 +69,109 @@ i : b6
 
 o : b7 
 
-[
+[ : c1 
+
+] : c2 
+
+a : c3 
+
+s : c4 
+
+d : c5 
+
+f : c6 
+
+g : c7 
+
+h : c8 
+
+j : c1sharp 
+
+k : c2sharp 
+
+l : c3sharp 
+
+; : c4sharp 
+
+' : c5sharp 
+
+return : c6sharp 
+
+left shift : c7sharp 
+
+z : d1 
+
+x : d2 
+
+c : d3 
+
+v : d4 
+
+b : d5  
+
+n : d6 
+
+m : d7
+
+, : d1sharp 
+
+. : d2sharp 
+
+/ : d3sharp 
+
+p : d4sharp 
+
+(no assigned key to this note) : d5sharp 
+
+right shift : d6sharp
+
+left ctrl : d7sharp 
+
+right ctrl : e1 
+
+left alt : e2 
+
+right alt : e3 
+
+enter : e4 
+
+space : e5 
+
+\(in code there are two backslashes because the backslash is a special character in python) : e6
+
+up : e7 
+
+down : f1 
+
+[7]( keys with brackets are special characters that are there in some keyboards. This is an example of a keypad number) : f2 
+
+left : f3 
+
+[1] : f4 
+
+[2] : f5 
+
+[3] : f6 
+
+[4] : f76 
+
+[5] : f1sharp 
+
+[6] : f2sharp 
+
+right : f3sharp 
+
+[8] : f4sharp 
+
+[9] : f5sharp 
+
+[0] : f6sharp 
+
+[.] : f7sharp 
+
+[*] : g1
+
+
 
 
 
